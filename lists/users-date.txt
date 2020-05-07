@@ -1,0 +1,9 @@
+userid,user name,last_login
+A1223552    Curtis Hill 10-04-2020
+B1223554    Brenda Goodwin 19-02-2020
+X1223555    Jacqueline Copeland 26-02-2019
+U1223557    Sadia Mcgowan 11-01-2018
+C1223553    Cairon Glover 23-02-2020
+A1223557    Leonard Duggan 12-02-2019
+F1228552    Aadam Nielsen 14-05-2020
+K1223550    Sadie Richards 27-08-2020
