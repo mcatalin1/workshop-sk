@@ -1,8 +1,9 @@
 ### Hints for the solution
 
 #### bash
-- sort
-- uniq
+- grep
+- awk
 
 #### perl
-- .
+- datetime
+- regex
