@@ -1,7 +1,8 @@
 ### Hints for the solution
 
 #### bash
-- sort
+- awk
+- multiline comments
 
 #### perl
 - .
